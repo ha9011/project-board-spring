@@ -8,6 +8,7 @@ class ProjectBoardSpringApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("----test-----");
     }
 
 }
